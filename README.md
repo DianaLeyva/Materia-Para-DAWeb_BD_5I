@@ -10,4 +10,16 @@ Tenemos link de referencia mas documentos Agosto 2024
 
 -  Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
 -  https://www.mclibre.org/
--  
+
+## Framwork y lenguaje de programacion
+- página web para programacion
+  
+- Learn to Code
+- https://www.w3schools.com/
+
+- Python
+- https://www.w3schools.com/python/default.asp
+- Descargar python https://www.python.org/downloads/
+
+- Programacion en linea
+- https://coddy.tech/
